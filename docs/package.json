@@ -1,0 +1,13 @@
+{
+  "name": "ef-note",
+  "scripts": {
+    "serve":"gitbook serve . ./docs",
+    "build": "gitbook build . ./docs"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wchat/EN-Notes.git",
+  "author": "TigerZH",
+  "license": "LICENSE",
+  "private": true
+}
