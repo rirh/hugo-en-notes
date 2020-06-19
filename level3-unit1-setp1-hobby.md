@@ -70,3 +70,19 @@ Piano
 Saxophone
 ```
 
+掌握文章的基本大意
+
+```
+My Guitar
+I'm preety good at playing the guitar. I play my gtandfather's old guitar. it's lovely. I sometimes play quiet songs, but I usually play noisy things. I can also play the flute , but 
+I'm terrible at it.
+
+Me and Drawing
+I'm really into drawing. I usually draw one or two pictrues every day. It's fun, and I'm 
+good at it. My friends love my drawings. I give them a lot if my drawings. Now I want to 
+learn oil painting.
+
+There are have lot of instermant
+
+```
+
