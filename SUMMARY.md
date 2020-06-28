@@ -19,25 +19,13 @@
 
    [UNIT III](level3.md)
 
-   - [3.1.1 兴趣爱好](level3-unit1-setp1-hobby.md)
-   - [3.1.2 地点](level3-unit2-setp2-adder.md)
-   - [3.1.3 酒店](level3-unit3-hotel.md)
-   - [3.1.4 派对](level3-unit4-party.md)
-   - [3.1.5 购买](level3-unit5-money&buy.md)
-   - [3.1.6.1 询问工作经验](level3-unit6-step1-job.md)
-   - [3.1.6.2 介绍新员工](level3-unit6-step2-employ.md)
-   - [3.1.6.3 阅读名片内容](level3-unit6-step3-carte.md)
-   - [3.1.6.4 描写工作](level3-unit6-step4-dis-job.md)
-
-
-
-
-
-
-
- 
-
-
-
-### Part II
+  * [3.1.1 兴趣爱好](level3-unit1-setp1-hobby.md)
+  * [3.1.2 地点](level3-unit2-setp2-adder.md)
+  * [3.1.3 酒店](level3-unit3-hotel.md)
+  * [3.1.4 派对](level3-unit4-party.md)
+  * [3.1.5 购买](level3-unit5-money&buy.md)
+  * [3.1.6.1 询问工作经验](level3-unit6-step1-job.md)
+  * [3.1.6.2 介绍新员工](level3-unit6-step2-employ.md)
+  * [3.1.6.3 阅读名片内容](level3-unit6-step3-carte.md)
+  * [3.1.6.4 描写工作](level3-unit6-step4-dis-job.md)
 
