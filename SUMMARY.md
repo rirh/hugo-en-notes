@@ -27,7 +27,7 @@
    - [3.1.6.1 询问工作经验](level3-unit6-step1-job.md)
    - [3.1.6.2 介绍新员工](level3-unit6-step2-employ.md)
    - [3.1.6.3 阅读名片内容](level3-unit6-step3-carte.md)
-   - [3.1.6.4 询问工作经验](level3-unit6-step4-dis-job.md)
+   - [3.1.6.4 描写工作](level3-unit6-step4-dis-job.md)
 
 
 
