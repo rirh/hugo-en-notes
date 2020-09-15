@@ -85,5 +85,11 @@
   
   * [4.6.4 描述假期](level4-unit6-step4-desc-holiday.md)
   
+  * [5.1.1 旅行](level5-unit1-step1-travel.md)
+  
+  * [5.1.2 办理登机](level5-unit1-step2-checkin.md)
+  
+    
+    
     
 

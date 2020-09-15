@@ -39,11 +39,9 @@ lose – lost – lost
 A: Have you printed your boarding pass?
 您打印登机牌了吗？
 B: Yes, I have.
-
 是的，打印了。
  	 	 
 A: Have you packed your bags?
-
 您收拾好了吗？
 B: No, not yet.
 没，还没呢。
@@ -72,36 +70,43 @@ I haven't checked in yet.	我还没有办理值机。
  
 
 A: When are you leaving?
-B: On the 23rd.	你什么时候离开？
+你什么时候离开？
+B: On the 23rd.	
 在23日。
  	 	 
 
 A: When are you returning?
-B: On Friday the 31st.	你什么时候返回？
+你什么时候返回？
+B: On Friday the 31st.	
 在31号，星期五。
  	 	 
 
 A: What time's your flight?
-B: It's at 7:38 a.m.	航班几点起飞？
+航班几点起飞？
+B: It's at 7:38 a.m.	
 早上 7:38 分。
  	 	 
 A: What's the airline?
-B: Air Pacifica.	是哪家航空公司？
+是哪家航空公司？
+B: Air Pacifica.	
 太平洋航空。
 
 
 A: When do you arrive in Paris?
-B: At 11:42 p.m.	你什么时候到达巴黎？
+你什么时候到达巴黎？
+B: At 11:42 p.m.	
 下午11:42
  	 	 
 
 A: Which airport do you fly out of?
-B: O'Hare.	你要在哪个机场起飞？
+你要在哪个机场起飞？
+B: O'Hare.	
 奥黑尔机场。
  	 	 
 
 A: Which airport do you fly in to?
-B: I fly in to De Gaulle.	你要飞抵哪个机场？
+你要飞抵哪个机场？
+B: I fly in to De Gaulle.
 我飞往戴高乐机场。
 ```
 
