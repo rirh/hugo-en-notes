@@ -2,7 +2,8 @@
   "name": "ef-note",
   "scripts": {
     "serve": "gitbook serve . ./docs",
-    "build": "gitbook build . ./docs"
+    "build": "gitbook build . ./docs",
+    "git": "node ./script/git"
   },
   "dependencies": {
     "simple-git": "^1.132.0",
