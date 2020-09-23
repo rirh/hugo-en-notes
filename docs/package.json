@@ -1,8 +1,13 @@
 {
   "name": "ef-note",
   "scripts": {
-    "serve":"gitbook serve . ./docs",
+    "serve": "gitbook serve . ./docs",
     "build": "gitbook build . ./docs"
+  },
+  "dependencies": {
+    "simple-git": "^1.132.0",
+    "inquirer": "^7.1.0",
+    "ora": "^4.0.4"
   },
   "version": "1.0.0",
   "main": "index.js",
