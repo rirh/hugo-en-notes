@@ -71,9 +71,22 @@
    * [4.6.4 描述假期](level4-unit6-step4-desc-holiday.md)
 * [UNIT  Ⅴ](level5.md)
    * [5.1.1 旅行](level5-unit1-step1-travel.md)
-
    * [5.1.2 办理登机](level5-unit1-step2-checkin.md)
-
    * [5.1.3 入住酒店](level5-unit1-step3-to-hotel.md)
-   
    * [5.1.4 告知抵达](level5-unit1-step4-arrive.md)
+   * [5.2.1比较选择](level5-unit2-step1-selected.md)
+   * [5.2.2做决定](level5-unit2-step2-decide.md)
+   * [5.2.3讨论细节](level5-unit2-step3-discuss-detail.md)
+   * [5.2.4总结决定](level5-unit2-step4-result.md)
+   * [5.3.1解释你和某人的相识](level5-unit3-step1-summary-dis.md)
+   * [5.3.2谈论关系](level5-unit3-step2-discuss-rel.md)
+   * [5.3.3谈论美好的经历](level5-unit3-step3-good-story.md)
+   * [5.3.4讲述有关糟糕经历的故事](level5-unit3-step4-terrible-story.md)
+   * [5.4.1预定餐位](level5-unit4-step1-reservation.md)
+   * [5.4.2到达餐厅](level5-unit4-step2-arriver-res.md)
+   * [5.4.3在餐厅点菜](level5-unit4-step3-order-dished.md)
+   * [5.4.4询问账单和付款](level5-unit4-step4-pay-order.md)
+   * [5.5.1谈论你最近看过的电影](level5-unit5-step1-talk-about-movie.md)
+
+   
+
