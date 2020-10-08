@@ -22,7 +22,7 @@
    * [3.1.6.3 阅读名片内容](level3-unit6-step3-carte.md)
    * [3.1.6.4 描写工作](level3-unit6-step4-dis-job.md)
 * [UNIT Ⅳ](level4.md)
-   
+  
    * [4.1.1 描述休闲娱乐的选择](level4-unit1-step1-free.md)
    * [4.1.2 谈论即将发生的事情](level4-unit1-step2-active.md)
    * [4.1.3 计划与朋友晚上外出](level4-unit1-step3-out.md)
@@ -73,11 +73,19 @@
    * [5.6.3询问服务细节](level5-unit6-step3-disscuss-asks.md)
    * [5.6.4赞美他人的服装](level5-unit6-step4-good-col.md)
 * [UNIT  Ⅵ](level6.md)
+   * [6.1.1 给予反馈](level6-unit1-step1-faceback.md)
+   * [6.1.2 转达信息](level6-unit1-step2-send-info.md)
+   * [6.1.3 主持会议](level6-unit1-step3-metting.md)
+   * [6.1.4 总结会议](level6-unit1-step4-result-metting.md)
+   * [6.2.1 预约医生](level6-unit2-step1-goto-doctor.md)
+   * [6.2.2 与医生对话](level6-unit2-step2-talk-doctor.md)
+   * [6.2.3 填写处方](level6-unit2-step3-fill-pre.md)
+   * [6.2.4 谈论疾病或受伤](level6-unit2-step4-talk-pre.md)
    * [6.6.1 与你的互联网供应商之间的问题](level6-unit6-step1-server-pro.md)
    * [6.6.2 比较不同的套餐](level6-unit6-step2-difference-package.md)
    * [6.6.3 询问服务细节](level6-unit6-step3-ask-service.md)
    * [6.6.4 条款和条件](level6-unit6-step4-pricy.md)
-  
+    
    
 
    
