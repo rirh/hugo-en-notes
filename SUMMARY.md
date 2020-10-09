@@ -99,9 +99,13 @@
    * [6.6.4 条款和条件](level6-unit6-step4-pricy.md)
 * [UNIT Ⅶ](level7.md)
    * [7.1.1 谈论环境](level7-unit1-step1-talk-polltion.md)
-   * [7.1.1 谈论未来科技](level7-unit1-step2-talk-science.md)
-   * [7.1.1 讨论商业变革](level7-unit1-step3-talk-change.md)
-   * [7.1.1 撰写有关未来生活的文章](level7-unit1-step4-talk-futrue.md)
+   * [7.1.2谈论未来科技](level7-unit1-step2-talk-science.md)
+   * [7.1.3 讨论商业变革](level7-unit1-step3-talk-change.md)
+   * [7.1.4 撰写有关未来生活的文章](level7-unit1-step4-talk-futrue.md)
+   * [7.2.1 谈论你对未来的希望](level7-unit2-step1-talk-holp.md)
+   * [7.2.2 谈论人生选择](level7-unit2-step2-talk-life.md)
+   * [7.2.3 谈论你的希望和梦想](level7-unit2-step3-talk-dream.md)
+   * [7.2.4 谈论职业发展](level7-unit2-step4-talk-imp.md)
 
    
 
