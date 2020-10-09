@@ -126,3 +126,5 @@ Another possibility would be to have a team meeting.
 The Clayton Harelson Company made beautiful motorcycles that were popular around the world. It cost a lot to make them in the US, so the motorcycles were expensive. Problems began when other companies, in other countries, started making similar motorcycles. Company management decided they had two choices. One solution was to move the factory to a less expensive country. Another possibility was to have fewer workers in the factory and spend a lot of money on the latest technology to make the motorcycles.
 ```
 
+
+

@@ -85,11 +85,24 @@
    * [6.3.2 为你的朋友提建议](level6-unit3-step2-provide-sug.md)
    * [6.3.3 解决员工问题](level6-unit3-step3-fix-har.md)
    * [6.3.4 提出解决工作问题的办法](level6-unit3-step4-fix-work.md)
+   * [6.4.1 欢迎商务来宾](level6-unit4-step1-welcome-guset.md)
+   * [6.4.2 参加社交活动](level6-unit4-step2-join-se.md)
+   * [6.4.3 商务联络](level6-unit4-step3-bussius-tel.md)
+   * [6.4.4 总结社交活动](level6-unit4-step4-result-active.md)
+   * [6.5.1 描述商务场合](level6-unit5-step1-desp-bus.md)
+   * [6.5.2 讨论可能的解决方法](level6-unit5-step2-desc-solution.md)
+   * [6.5.3 提出方案](level6-unit5-step3-hand-way.md)
+   * [6.5.4 撰写简短的商务方案](level6-unit5-step4-write-way.md)
    * [6.6.1 与你的互联网供应商之间的问题](level6-unit6-step1-server-pro.md)
    * [6.6.2 比较不同的套餐](level6-unit6-step2-difference-package.md)
    * [6.6.3 询问服务细节](level6-unit6-step3-ask-service.md)
    * [6.6.4 条款和条件](level6-unit6-step4-pricy.md)
-    
+* [UNIT Ⅶ](level7.md)
+   * [7.1.1 谈论环境](level7-unit1-step1-talk-polltion.md)
+   * [7.1.1 谈论未来科技](level7-unit1-step2-talk-science.md)
+   * [7.1.1 讨论商业变革](level7-unit1-step3-talk-change.md)
+   * [7.1.1 撰写有关未来生活的文章](level7-unit1-step4-talk-futrue.md)
+
    
 
    
