@@ -93,3 +93,31 @@ A: Where do you see yourself in, say, five or 10 years' time?	 	假定五到十�
 B: I'd like to run my own company.	 	我想管理自己的公司。
 ```
 
+```
+INTERVIEWER: What do you think are some of your strengths and weaknesses ?
+APPLICANT: Well, one of my biggest strengths is my ability to work with others. I'm a great team player .
+INTERVIEWER: And weaknesses?
+APPLICANT: Well, sometimes I just get too excited about things. I want everything to happen quickly.
+INTERVIEWER: I see. And why do you want to work for this company?
+APPLICANT: Because you're number one. You have no real competition that I can see.
+INTERVIEWER: And what are your career goals – say, in two or three years?
+APPLICANT: I see myself in a management position.
+```
+
+```
+Could you tell me a little more about your education?
+能再说说你的教育背景吗？
+I graduated with a degree in computer programming.
+我毕业时获得了计算机编程专业的学位。
+Why are you interested in this position?
+你为什么对这个职位感兴趣？
+I think I have the right skills for the position.
+我认为自己具备这个职位所需的技能。
+One of my short-term goals is to be a manager.
+我的短期目标之一是成为一名管理者。
+One of my long-term goals is to have my own company.
+我的长期目标之一是创办自己的公司。
+Would you be available for a follow-up interview?
+你有空参加接下来的面试吗？
+```
+
