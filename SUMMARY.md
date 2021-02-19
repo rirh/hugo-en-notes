@@ -123,6 +123,10 @@
    * [7.5.2 明确你的教育目标](level7-unit5-step2-target-ed.md)
    * [7.5.3 为员工选择培训课程](level7-unit5-step3-choose-lesson.md)
    * [7.5.4 撰写有关你所在国家的教育文章](level7-unit5-step4-write-doc-a-c.md)
+   * [7.6.1 对意外的消息作出反应](level7-unit6-step1-face-big-thing.md)
+   * [7.6.2 调查谣言和绯闻](level7-unit6-step2-talk-faker-news.md)
+   * [7.6.3 处理机密信息](level7-unit6-step3-private-info-func.md)
+   * [7.6.4 写一份建议性的邮件](level7-unit6-step4-write-remmoend-letter.md)
    
    
    
