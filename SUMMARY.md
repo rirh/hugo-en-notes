@@ -103,6 +103,7 @@
    * [6.6.4 条款和条件](level6-unit6-step4-pricy.md)
    
 * [UNIT Ⅶ](level7.md)
+  
    * [7.1.1 谈论环境](level7-unit1-step1-talk-polltion.md)
    * [7.1.2谈论未来科技](level7-unit1-step2-talk-science.md)
    * [7.1.3 讨论商业变革](level7-unit1-step3-talk-change.md)
@@ -127,11 +128,21 @@
    * [7.6.2 调查谣言和绯闻](level7-unit6-step2-talk-faker-news.md)
    * [7.6.3 处理机密信息](level7-unit6-step3-private-info-func.md)
    * [7.6.4 写一份建议性的邮件](level7-unit6-step4-write-remmoend-letter.md)
+* [UNIT ⅦI](level8.md)
+   * [8.1.1 谈论你喜欢的音乐](level8-unit1-step1-music-topic.md)
+   * [8.1.2 找到听音乐的方法](level8-unit1-step2-find-music.md)
+   * [8.1.3 计划夜晚外出](level8-unit1-step3-night-travel-plan.md)
+   * [8.1.4 撰写有关一首歌的文章](level8-unit1-step4-write-music-doc.md)
+   * [8.2.1 与训练教师交谈](level8-unit2-step1-disscuss-with-th.md)
+   * [8.2.2 提供有关生活方式的建议](level8-unit2-step2-provide-life-way.md)
+   * [8.2.3 谈论工作场所压力](level8-unit2-step3-disscuss-work.md)
+   * [8.2.4 描述办公室文化](level8-unit2-step4-desc-office.md)
+
    
+  
    
+  
    
-   
-   
-   
+
 
 
