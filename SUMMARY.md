@@ -137,9 +137,15 @@
    * [8.2.2 提供有关生活方式的建议](level8-unit2-step2-provide-life-way.md)
    * [8.2.3 谈论工作场所压力](level8-unit2-step3-disscuss-work.md)
    * [8.2.4 描述办公室文化](level8-unit2-step4-desc-office.md)
+   * [8.3.1 谈论你最近的工作](level8-unit3-step1-disscuss-with-work.md)
+   * [8.3.2 谈论将来的计划](level8-unit3-step2-disscuss-with-future.md)
+   * [8.3.3 讨论职业计划](level8-unit3-step3-disscuss-with-global.md)
+   * [8.3.4 撰写有关你职业计划的文章](level8-unit3-step4-make-work-plan.md)
+   * [8.4.1 计划商务旅行](level8-unit4-step1-business-tips-plan.md)
+   * [8.4.2 预定酒店](level8-unit4-step2-hotel-reservation.md)
+   * [8.4.3 安排会议](level8-unit4-step3-metting-shud.md)
+   * [8.4.4 做一个会议总结](level8-unit4-step4-metting-summer.md)
 
-   
-  
    
   
    
