@@ -145,6 +145,15 @@
    * [8.4.2 预定酒店](level8-unit4-step2-hotel-reservation.md)
    * [8.4.3 安排会议](level8-unit4-step3-metting-shud.md)
    * [8.4.4 做一个会议总结](level8-unit4-step4-metting-summer.md)
+   * [8.5.1 产品特点](level8-unit5-step1-product-sp.md)
+   * [8.5.2 购买产品](level8-unit5-step2-pay-for-product.md)
+   * [8.5.3 写出关于产品创新的想法](level8-unit5-step3-about-new-product.md)
+   * [8.5.4 创新思维](level8-unit5-step4-think-about-product.md)
+   * [8.6.1 描述人物](level8-unit6-step1-desc-person.md)
+   * [8.6.2 描述团队默契](level8-unit6-step2-desc-group.md)
+   * [8.6.3 建立融洽关系](level8-unit6-step3-build-ship.md)
+   * [8.6.4 使用正确的语气](level8-unit6-step4-use-right-con.md)
+
 
    
   
