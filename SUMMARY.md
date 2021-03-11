@@ -153,11 +153,16 @@
    * [8.6.2 描述团队默契](level8-unit6-step2-desc-group.md)
    * [8.6.3 建立融洽关系](level8-unit6-step3-build-ship.md)
    * [8.6.4 使用正确的语气](level8-unit6-step4-use-right-con.md)
+* [UNIT IX](level9.md)
+   * [9.1.1 预定晚餐](level9-unit1-step1-reservation-dinner.md)
+   * [9.1.2 点餐](level9-unit1-step2-have-dinner.md)
+   * [9.1.3 用餐时礼貌交谈](level9-unit1-step3-polite-conversation.md)
+   * [9.1.4 结束用餐和买单](level9-unit1-step4-dinner-tax.md)
 
 
-   
+
   
-   
+
 
 
 
