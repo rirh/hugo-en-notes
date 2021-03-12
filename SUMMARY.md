@@ -158,6 +158,10 @@
    * [9.1.2 点餐](level9-unit1-step2-have-dinner.md)
    * [9.1.3 用餐时礼貌交谈](level9-unit1-step3-polite-conversation.md)
    * [9.1.4 结束用餐和买单](level9-unit1-step4-dinner-tax.md)
+   * [9.2.1 准备谈判](level9-unit2-step1-ready-conference.md)
+   * [9.2.2 表明你的公开立场](level9-unit2-step2-take-stand.md)
+   * [9.2.3 谈判](level9-unit2-step3-conference.md)
+   * [9.2.4 达成交易](level9-unit2-step4-success-conference.md)
 
 
 
