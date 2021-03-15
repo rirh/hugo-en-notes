@@ -162,10 +162,20 @@
    * [9.2.2 表明你的公开立场](level9-unit2-step2-take-stand.md)
    * [9.2.3 谈判](level9-unit2-step3-conference.md)
    * [9.2.4 达成交易](level9-unit2-step4-success-conference.md)
+   * [9.3.1 事情是如何改变的](level9-unit3-step1-change-fun-way.md)
+   * [9.3.2 讨论工作-生活平衡](level9-unit3-step2-discuss-life-work.md)
+   * [9.3.3 改变生活方式](level9-unit3-step3-change-life.md)
+   * [9.3.4 讨论将来的计划](level9-unit3-step4-talk-about-futrue.md)
+   * [9.4.1 解释规则和规定](level9-unit4-step1-export-rule.md)
+   * [9.4.2 报告受伤](level9-unit4-step2-handle-in-inject.md)
+   * [9.4.3 讨论工作场所安全](level9-unit4-step3-discuss-safe.md)
+   * [9.4.4 就安全法律提供意见](level9-unit4-step4-safe-way-opioin.md)
 
 
 
-  
+
+
+
 
 
 
