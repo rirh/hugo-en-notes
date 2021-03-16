@@ -1,11 +1,5 @@
 {
   "styles": {
     "website": "styles/index.css"
-  },
-  "plugin": [
-    "chapter-fold",
-    "expandable-chapters",
-    "splitter",
-    "back-to-top-button"
-  ]
+  }
 }
