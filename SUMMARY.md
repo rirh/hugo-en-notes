@@ -170,9 +170,14 @@
    * [9.4.2 报告受伤](level9-unit4-step2-handle-in-inject.md)
    * [9.4.3 讨论工作场所安全](level9-unit4-step3-discuss-safe.md)
    * [9.4.4 就安全法律提供意见](level9-unit4-step4-safe-way-opioin.md)
-
-
-
+   * [9.5.1 调查一个新城市](level9-unit5-step1-survey-city.md)
+   * [9.5.2 找到路](level9-unit5-step2-find-way.md)
+   * [9.5.3 度过在办公室的第一天](level9-unit5-step3-send-office.md)
+   * [9.5.4 寻找一套公寓](level9-unit5-step4-find-apaterment.md)
+   * [9.6.1 变得熟悉](level9-unit6-step1-more-close.md)
+   * [9.6.2 管理对话](level9-unit6-step2-mananage-chat.md)
+   * [9.6.3 给予和接受道歉](level9-unit6-step3-accpet-apo.md)
+   * [9.6.4 离开和告别](level9-unit6-step4-say-bey.md)
 
 
 
