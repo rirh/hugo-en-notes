@@ -2,9 +2,10 @@
   "styles": {
     "website": "styles/index.css"
   },
-  "plugins": ["custom-favicon-new"],
-  "pluginsConfig": {
-    "favicon": "assets/16x16.png",
-    "appleTouchIconPrecomposed152": "assets/128x128.png"
-  }
+  "plugin": [
+    "chapter-fold",
+    "expandable-chapters",
+    "splitter",
+    "back-to-top-button"
+  ]
 }
